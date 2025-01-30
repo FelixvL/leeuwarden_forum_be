@@ -14,7 +14,7 @@
 		},
 		{
 			"fotonaam" : "foto3.jpg"
-		},
+		}
 	],
 	"straat" : "Atrechtlaan 58",
 	"favoriet" : "0",
@@ -32,7 +32,7 @@
 		},
 		{
 			"fotonaam" : "foto6.jpg"
-		},
+		}
 	],
 	"straat" : "Burgtlaan 58",
 	"favoriet" : "1",
