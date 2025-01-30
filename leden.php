@@ -1,0 +1,17 @@
+[
+    {
+    "naam":"frits"
+    },
+    {
+    "naam":"karel"
+    },
+    {
+    "naam":"joris"
+    },
+    {
+    "naam":"maaike"
+    },
+    {
+    "naam":"lisanne"
+    }
+]
