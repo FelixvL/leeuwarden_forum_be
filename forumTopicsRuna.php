@@ -5,33 +5,33 @@
 ?>
 [
     {
-        "forumImage":"image1.jpg",
-        "forumTitle":"Forum 1",
-        "forumDiscr":"This is forum 1, we talk about forum 1 related stuff here."
+        "forumImage":"codologo.jpg",
+        "forumTitle":"Programming general",
+        "forumDiscr":"General forum for programming. Discuss any programming related topics here."
     },
     {
-        "forumImage":"image2.jpg",
-        "forumTitle":"Forum 2",
-        "forumDiscr":"This is forum 2, we talk about forum 2 related stuff here."
+        "forumImage":"html5logo.jpg",
+        "forumTitle":"HTML forum",
+        "forumDiscr":"This is the HTML forum. We talk about HTML here. HTML related QA."
     },
     {
-        "forumImage":"image3.jpg",
-        "forumTitle":"Forum 3",
-        "forumDiscr":"This is forum 3, we talk about forum 2 related stuff here."
+        "forumImage":"javascriptlogo.jpg",
+        "forumTitle":"Javascript forum",
+        "forumDiscr":"Forum about Javascript. For any Javascript coding questions."
     },
     {
-        "forumImage":"image4.jpg",
-        "forumTitle":"Forum 4",
-        "forumDiscr":"This is forum 4, we talk about forum 2 related stuff here."
+        "forumImage":"csslogo.jpg",
+        "forumTitle":"CSS central",
+        "forumDiscr":"CSS is cool, we make stuff pretty. Talk about CSS here!"
     },
     {
-        "forumImage":"image5.jpg",
-        "forumTitle":"Forum 5",
-        "forumDiscr":"This is forum 5, we talk about forum 2 related stuff here."
+        "forumImage":"bootstraplogo.jpg",
+        "forumTitle":"Bootstrap",
+        "forumDiscr":"This is a forum about Bootstrap. Ask anything about Bootstrap here."
     },
     {
-        "forumImage":"image6.jpg",
-        "forumTitle":"Forum 6",
-        "forumDiscr":"This is forum 6, we talk about forum 2 related stuff here."
+        "forumImage":"pythonlogo.jpg",
+        "forumTitle":"Python forum",
+        "forumDiscr":"This is a Python forum. Discuss Python here."
     }
 ]
