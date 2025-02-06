@@ -4,10 +4,10 @@
    // $var1 = 3;
    // echo $var1;
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "dbvoorbeeldfefriesland";
+$servername = "forumpjedb.mysql.database.azure.com";
+$username = "felixadmin";
+$password = "uiop7890UIOP&*()";
+$dbname = "forumdb";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
