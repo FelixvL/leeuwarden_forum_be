@@ -8,18 +8,28 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 
 [
     {
-    "naam":"frits"
+    "profiel_afbeelding": "images/placeholder.png",
+    "naam":"Frits",
+    "email":"frits123@gmail.com"
     },
     {
-    "naam":"karel"
+    "profiel_afbeelding": "images/placeholder4.png",
+    "naam":"Karel",
+    "email":"karel@hotmail.com"
     },
     {
-    "naam":"joris"
+    "profiel_afbeelding": "images/placeholder5.png",
+    "naam":"Joris",
+    "email":"joris@gmail.com"
     },
     {
-    "naam":"maaike"
+    "profiel_afbeelding": "images/maaike.png",
+    "naam":"Maaike",
+    "email": "maaike@live.com"
     },
     {
-    "naam":"lisanne"
+    "profiel_afbeelding": "images/lisanne.png",
+    "naam":"Lisanne",
+    "email":"lisanne@hotmail.com"
     }
 ]
